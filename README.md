@@ -10,7 +10,8 @@
 * All code should be test-driven and committed.
 
 ## Getting Started
-
+* Dowload git.
+  * [Windows](https://git-scm.com/download/win)
 * Download the project stub bundles for your language of choice.
   * [Java](https://github.com/cahcommercial/fuse-kata/raw/master/java_audition.bundle)
   * [JavaScript](https://github.com/cahcommercial/fuse-kata/raw/master/javascript_audition.bundle)
