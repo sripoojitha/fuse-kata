@@ -10,7 +10,7 @@
 * All code should be test-driven and committed.
 
 ## Getting Started
-* Dowload git.
+* Download git.
   * [Windows](https://git-scm.com/download/win)
 * Download the project stub bundles for your language of choice.
   * [Java](https://github.com/cahcommercial/fuse-kata/raw/master/java_audition.bundle)
@@ -18,8 +18,8 @@
   * [.NET](https://github.com/cahcommercial/fuse-kata/raw/master/net_audition.bundle)
   * [T-SQL/SSIS](https://github.com/cahcommercial/fuse-kata/raw/master/sql_audition.bundle)
 * Save the java_audition.bundle and javascript_audition.bundle to your system. These files are compressed git 
-  repositories of empty project shells that you will be working within. Click 
-  [here](https://git-scm.com/blog/2010/03/10/bundles.html) for more information on bundles.
+  repositories of empty project shells.
+  * [Detailed instructions on how to use git bundeles](https://git-scm.com/blog/2010/03/10/bundles.html).
 * After the files are saved, extract them with git with the following command(s):
   ```bash
   git clone java_audition.bundle -b master [candidates_name]_java_audition
