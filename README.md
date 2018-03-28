@@ -20,7 +20,7 @@
   * [Python](https://github.com/cahcommercial/fuse-kata/raw/master/python_audition.bundle)
 * Save the java_audition.bundle and javascript_audition.bundle to your system. These files are compressed git 
   repositories of empty project shells.
-  * [Detailed instructions on how to use git bundles](https://git-scm.com/blog/2010/03/10/bundles.html).
+  * [Detailed instructions on how to use git bundles](https://git-scm.com/book/en/v2/Git-Tools-Bundling).
 * After the files are saved, extract them with git with the following command(s):
   ```bash
   git clone java_audition.bundle -b master [candidates_name]_java_audition
