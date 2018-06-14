@@ -16,7 +16,7 @@
   * [Java](https://github.com/cahcommercial/fuse-kata/raw/master/java_audition.bundle)
   * [JavaScript](https://github.com/cahcommercial/fuse-kata/raw/master/javascript_audition.bundle)
   * [.NET](https://github.com/cahcommercial/fuse-kata/raw/master/net_audition.bundle)
-  * [T-SQL/SSIS](https://github.com/cahcommercial/fuse-kata/raw/master/sql_audition.bundle)
+  * [T-SQL/SSIS](https://github.com/cahcommercial/fuse-kata/raw/master/sql_audition.bundle) (Kata included in bundle.)
   * [Python](https://github.com/cahcommercial/fuse-kata/raw/master/python_audition.bundle)
 * Save the java_audition.bundle and javascript_audition.bundle to your system. These files are compressed git 
   repositories of empty project shells.
@@ -38,7 +38,10 @@
   ```bash
   git bundle verify roncarpenter_java_audition.bundle
   ```
-* Please submit your kata in the bundle format.
+* Choose a Kata below, and implement the requirements to the best of your ability.
+* Commit your code to the repository.
+* Bundle your Kata.
+* Submit. (Please submit your kata in the bundle format.)
 
 ## Available Kata's
 
